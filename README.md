@@ -1,20 +1,24 @@
-# Choose Your Story
+# Budget Checker
 
-In this activity, you will practice using conditionals by creating the first step of a role-playing adventure.
+In this activity, you'll write a VBA script to run a budget checker in Excel.
 
 ## Instructions
 
-Create an Excel workbook and VBA macro that provides a user with an input field and a single button. Based on the user-input number (1, 2, 3, or 4), the button will trigger different message boxes as follows:
+* There are three parts to this problem.
 
-* If the user enters a value of 1, display “You choose to enter the wooded forest of doom!”
+  * Part 1: Calculate the total amount after adding in the fee, and enter the value in the "Total" cell.
 
-* If the user enters a value of 2, display “You choose to enter the fiery volcano of doom!”
+  * Part 2: Create a message box to alert the user if the total amount, including the fee, is within or over budget.
 
-* If the user enters a value of 3, display “You choose to enter the terrifying jungle of doom!”
+  * Part 3 (Challenge): If the total is over budget, correct the price so it fits within the user’s budget. Be sure to round down!
 
-*  If the user enters a value of 4, display a similar custom message.
+    * For example: If the user's budget is 100 and the fees are 15%, the max price should be 86.
 
-* If the user enters anything else, display “You decide to stay home instead.”
+## Hints
+
+* Break up the problem into smaller steps.
+
+* Look at old code! You got this!
 
 —
 
